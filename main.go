@@ -10,8 +10,8 @@ import (
 	"time"
 
 	"github.com/AlecAivazis/survey/v2"
-	"github.com/rayhaanbhikha/aoc-2021/aoc-cli/language"
-	"github.com/rayhaanbhikha/aoc-2021/aoc-cli/session"
+	"github.com/rayhaanbhikha/aoc/language"
+	"github.com/rayhaanbhikha/aoc/session"
 	"github.com/urfave/cli/v2"
 )
 
